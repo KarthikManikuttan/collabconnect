@@ -52695,7 +52695,7 @@ return A.T(A.aFi(p,p.gB3().pC("documents")).lJ(q.a.c).QO(0,A.S(["content",a,"del
 case 2:return A.L(null,r)}})
 return A.M($async$Ch,r)},
 ajC(){this.IO()},
-H(a){var s=null,r=A.cB("Document ID: "+this.a.c,s,s,s,s,s,s,s),q=A.vR(B.ajR,this.gasa(),s),p=this.e,o=A.aXe(!0,s,s,s,s,p,s,B.cB,s,s,s,s,!0,s,!1,s,B.Nv,s,!0,!1,!0,!1,!1,!0,B.au,A.bhi(),s,s,s,s,s,s,s,s,s,B.ae,s,s,!1,s,0,s,!0,B.kX,s,B.ag_,B.k9,s,s,s),n=A.pO(0),m=A.n_(!0,s,!0,!0,s,s,!1)
+H(a){var s=null,r=A.cB("Document ID: "+this.a.c,s,s,s,s,s,s,s),q=A.vR(B.ajU,this.gasa(),s),p=this.e,o=A.aXe(!0,s,s,s,s,p,s,B.cB,s,s,s,s,!0,s,!1,s,B.Nv,s,!0,!1,!0,!1,!1,!0,B.au,A.bhi(),s,s,s,s,s,s,s,s,s,B.ae,s,s,!1,s,0,s,!0,B.kX,s,B.ag_,B.k9,s,s,s),n=A.pO(0),m=A.n_(!0,s,!0,!0,s,s,!1)
 return A.awh(s,A.a_l(!0,A.f6(A.a([r,q,new A.Z7(new A.atq(p,B.S,4,B.Kr,B.Ks,s,s,s,s,!0,s,B.Nx,B.kX),s),A.ri(new A.F_(A.aXe(!0,o.b0,o.d,o.xr,o.x2,o.b,o.rx,o.to,o.ok,o.RG,o.k4,o.cx,!0,o.x1,!1,o.y1,o.b3,o.k2,!0,!1,!0,!1,!1,!0,o.dx,o.p1,o.aR,o.CW,o.ch,o.ay,o.R8,o.p4,o.fr,o.cD,o.z,o.w,o.as,o.c,!1,o.A,o.r,o.dy,!0,o.a,o.Q,o.db,o.bI,o.p3,o.y2,o.k3),m,n,s))],t.p),B.a0,B.a3,B.aw,B.aa),B.ae,!0))}}
 A.aDw.prototype={
 $1(a){var s,r,q=a.b
@@ -52735,7 +52735,7 @@ A.Gn(p).FZ(0,"/login")
 return A.L(null,r)}})
 return A.M($async$BU,r)},
 H(a){var s=null
-return A.awh(s,A.ln(A.f6(A.a([B.ajT,A.vR(B.ajU,new A.aH1(this),s)],t.p),B.a0,B.a3,B.aw,B.aa),s,s))}}
+return A.awh(s,A.ln(A.f6(A.a([B.ajS,A.vR(B.ajT,new A.aH1(this),s)],t.p),B.a0,B.a3,B.aw,B.aa),s,s))}}
 A.aH1.prototype={
 $0(){this.a.BU()},
 $S:0}
@@ -118073,9 +118073,9 @@ B.a_R=A.a(s(["p.n.e.","n.e."]),t.s)
 B.iP=A.a(s(["nedjelja","ponedjeljak","utorak","srijeda","\u010detvrtak","petak","subota"]),t.s)
 B.a_S=A.a(s(["\u062c","\u0641","\u0645","\u0627","\u0645","\u062c","\u062c","\u0627","\u0633","\u0627","\u0646","\u062f"]),t.s)
 B.JN=new A.B(!0,null,null,"MaterialIcons",null,null,24,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ajS=new A.iu("\u0391\u03b1",null,B.JN,null,null,null,null,null,null,null)
+B.ajR=new A.iu("\u0391\u03b1",null,B.JN,null,null,null,null,null,null,null)
 B.ajO=new A.iu("\u201c\u2026\u201d",null,B.JN,null,null,null,null,null,null,null)
-B.a_T=A.a(s([B.ajS,B.ajO]),t.p)
+B.a_T=A.a(s([B.ajR,B.ajO]),t.p)
 B.v1=A.a(s(["\u091c\u093e","\u092b\u0947","\u092e\u093e","\u090f","\u092e\u0947","\u091c\u0942","\u091c\u0941","\u0911","\u0938","\u0911","\u0928\u094b","\u0921\u093f"]),t.s)
 B.a_U=A.a(s(["Domingo","Luns","Martes","M\xe9rcores","Xoves","Venres","S\xe1bado"]),t.s)
 B.v2=A.a(s(["1\xba trimestre","2\xba trimestre","3\xba trimestre","4\xba trimestre"]),t.s)
@@ -120902,9 +120902,9 @@ B.aiC=new A.B(!0,B.l,null,"Roboto",null,null,null,null,null,null,null,null,null,
 B.ajN=new A.fF(B.aip,B.ajv,B.aje,B.ah7,B.aj6,B.ain,B.ajy,B.ahA,B.ai4,B.aj_,B.ah_,B.ajg,B.aj3,B.aiW,B.aiC)
 B.ajP=new A.iu("Sign In",null,null,null,null,null,null,null,null,null)
 B.ajQ=new A.iu("Sign Up",null,null,null,null,null,null,null,null,null)
-B.ajR=new A.iu("Sign Out",null,null,null,null,null,null,null,null,null)
-B.ajT=new A.iu("NewDocumentPage",null,null,null,null,null,null,null,null,null)
-B.ajU=new A.iu("logout",null,null,null,null,null,null,null,null,null)
+B.ajS=new A.iu("NewDocumentPage",null,null,null,null,null,null,null,null,null)
+B.ajT=new A.iu("logout",null,null,null,null,null,null,null,null,null)
+B.ajU=new A.iu("Sign Out!",null,null,null,null,null,null,null,null,null)
 B.ajV=new A.iu("SignUp",null,null,null,null,null,null,null,null,null)
 B.ajW=new A.iu("Login",null,null,null,null,null,null,null,null,null)
 B.app=new A.azy(0,"system")
